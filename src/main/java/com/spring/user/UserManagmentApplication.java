@@ -9,13 +9,7 @@ public class UserManagmentApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(UserManagmentApplication.class, args);
 	
-			// today is Wednesday.
-		
-		
-		
-		
-		
-	
+			// i am new branch ganesha
 	}
 
 }
